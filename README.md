@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- 깃허브 STAT -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHyeji&show_icons=true&theme=radical)
 
-<!--
-**LimHyeji/LimHyeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--TECH STACK -->
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+<br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
