@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyyej_ji&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hyyej_ji&fontSize=90)
 
 <!-- 깃허브 STAT --><!-- 백준 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji4775)](https://solved.ac/hyeji4775/)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHyeji&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimHyeji&layout=compact&theme=tokyonight)
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji4775)](https://solved.ac/hyeji4775/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimHyeji&count_bg=%23FF9100&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--TECH STACK -->
