@@ -33,5 +33,5 @@
 <h3 align="center"> 🐰 CONTACT 🐰 </h3>
 <hr/>
 <p align="center">
-<a href="[#](https://hyyejji.notion.site/hyyej_ji-48a7b52bd7144619bd5b61f19b3a1216?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://hyyejji.notion.site/hyyej_ji-48a7b52bd7144619bd5b61f19b3a1216?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
