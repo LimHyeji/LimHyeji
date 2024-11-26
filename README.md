@@ -1,8 +1,8 @@
 <h3 align="center"> 🐱 Web Developer / System Engineer 🐱 </h3>
 <hr/>
 <p align="center">
-<a href="https://www.notion.so/hyyejji/54145336b50e4602be67ece9216be4db" target="_blank"><img src="https://img.shields.io/badge/이력서-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://hyyejji.notion.site/hyyej_ji-48a7b52bd7144619bd5b61f19b3a1216?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<!-- <a href="https://www.notion.so/hyyejji/54145336b50e4602be67ece9216be4db" target="_blank"><img src="https://img.shields.io/badge/이력서-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<!-- <a href="https://hyyejji.notion.site/hyyej_ji-48a7b52bd7144619bd5b61f19b3a1216?pvs=4" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> --> -->
 </p>
 
 <br/>
